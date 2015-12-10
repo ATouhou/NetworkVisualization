@@ -14,14 +14,6 @@ Running the code:
 4. Then, go to the browser and go to the url: http://localhost:9000 
 
 
-## Files
-### Preprocessing
-* **data.sql** generates csv files
-* **quote.R** extract quote connections from post.csv
-* **transform.py** Transforms the csv files into json files for the dual view
-* **/sql_preprocessing** SQL code to extract the csv files in /csv
-
-
 ### Data
 * **post.csv** post information
 * **quote.csv** quote connection
